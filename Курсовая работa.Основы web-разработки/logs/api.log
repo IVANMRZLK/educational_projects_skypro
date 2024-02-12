@@ -1,0 +1,149 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 208-672-297
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 208-672-297
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 208-672-297
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 208-672-297
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 208-672-297
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:39] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:39] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:39] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:39] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:45] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:45] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:45] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:45] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:49] "[33mGET /posts/dsad HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:57] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:57] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:57] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:48:57] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 208-672-297
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:49:54] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:49:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:49:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:49:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:49:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:49:57] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:49:57] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:49:57] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:50:05] "GET /search?s=2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:50:05] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:50:13] "[33mGET /sear HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:50:19] "GET /posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:50:19] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:50:19] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:50:19] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:50:33] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:53:52] "GET /api/posts/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Jan/2024 13:53:55] "[33mGET /api/posts/f HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\tasksPython\\qwerty\\2web_dev\\dz13\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 208-672-297
+INFO:werkzeug: * Detected change in 'D:\\tasksPython\\qwerty\\2web_dev\\dz13\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 208-672-297
+ * Detected change in 'D:\\tasksPython\\qwerty\\2web_dev\\dz13\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+2024-01-20 14:01:25,137 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-20 14:01:25,137 [INFO] [33mPress CTRL+C to quit[0m
+2024-01-20 14:01:25,141 [INFO]  * Restarting with stat
+2024-01-20 14:01:25,450 [WARNING]  * Debugger is active!
+2024-01-20 14:01:25,457 [INFO]  * Debugger PIN: 208-672-297
+2024-01-20 14:01:54,617 [INFO] 127.0.0.1 - - [20/Jan/2024 14:01:54] "GET / HTTP/1.1" 200 -
+2024-01-20 14:01:54,676 [INFO] 127.0.0.1 - - [20/Jan/2024 14:01:54] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2024-01-20 14:01:54,677 [INFO] 127.0.0.1 - - [20/Jan/2024 14:01:54] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2024-01-20 14:01:54,742 [INFO] 127.0.0.1 - - [20/Jan/2024 14:01:54] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2024-01-20 14:02:01,321 [INFO] 127.0.0.1 - - [20/Jan/2024 14:02:01] "GET /search?s=2 HTTP/1.1" 200 -
+2024-01-20 14:02:01,334 [INFO] 127.0.0.1 - - [20/Jan/2024 14:02:01] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2024-01-20 14:02:21,617 [INFO] 127.0.0.1 - - [20/Jan/2024 14:02:21] "GET /api/posts/1 HTTP/1.1" 200 -
+2024-01-20 14:02:49,326 [INFO]  * Detected change in 'D:\\tasksPython\\qwerty\\2web_dev\\dz13\\app.py', reloading
+2024-01-20 14:02:49,363 [INFO]  * Restarting with stat
+2024-01-20 14:02:49,628 [WARNING]  * Debugger is active!
+2024-01-20 14:02:49,633 [INFO]  * Debugger PIN: 208-672-297
+2024-01-20 14:02:50,488 [INFO] 127.0.0.1 - - [20/Jan/2024 14:02:50] "GET /api/posts/2 HTTP/1.1" 200 -
+2024-01-20 14:03:02,391 [INFO] 127.0.0.1 - - [20/Jan/2024 14:03:02] "[35m[1mGET /api/posts/24 HTTP/1.1[0m" 500 -
+2024-01-20 14:03:02,438 [INFO] 127.0.0.1 - - [20/Jan/2024 14:03:02] "GET /api/posts/24?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-01-20 14:03:02,447 [INFO] 127.0.0.1 - - [20/Jan/2024 14:03:02] "GET /api/posts/24?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-01-20 14:03:02,477 [INFO] 127.0.0.1 - - [20/Jan/2024 14:03:02] "GET /api/posts/24?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-01-20 14:03:02,496 [INFO] 127.0.0.1 - - [20/Jan/2024 14:03:02] "[36mGET /api/posts/24?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-01-20 14:05:39,379 [INFO]  * Detected change in 'D:\\tasksPython\\qwerty\\2web_dev\\dz13\\app.py', reloading
+2024-01-20 14:05:39,418 [INFO]  * Restarting with stat
+2024-01-20 14:07:02,620 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-20 14:07:02,620 [INFO] [33mPress CTRL+C to quit[0m
+2024-01-20 14:07:02,625 [INFO]  * Restarting with stat
+2024-01-20 14:07:03,014 [WARNING]  * Debugger is active!
+2024-01-20 14:07:03,020 [INFO]  * Debugger PIN: 208-672-297
+2024-01-20 14:07:10,641 [INFO] 127.0.0.1 - - [20/Jan/2024 14:07:10] "[35m[1mGET /api/posts/24 HTTP/1.1[0m" 500 -
+2024-01-20 14:07:10,680 [INFO] 127.0.0.1 - - [20/Jan/2024 14:07:10] "[36mGET /api/posts/24?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-01-20 14:07:10,684 [INFO] 127.0.0.1 - - [20/Jan/2024 14:07:10] "[36mGET /api/posts/24?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-01-20 14:07:10,694 [INFO] 127.0.0.1 - - [20/Jan/2024 14:07:10] "[36mGET /api/posts/24?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-01-20 14:07:10,709 [INFO] 127.0.0.1 - - [20/Jan/2024 14:07:10] "[36mGET /api/posts/24?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-01-20 14:14:54,103 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-20 14:14:54,104 [INFO] [33mPress CTRL+C to quit[0m
+2024-01-20 14:14:54,107 [INFO]  * Restarting with stat
+2024-01-20 14:14:54,425 [WARNING]  * Debugger is active!
+2024-01-20 14:14:54,431 [INFO]  * Debugger PIN: 208-672-297
+2024-01-20 14:15:10,626 [INFO]  * Detected change in 'D:\\tasksPython\\qwerty\\2web_dev\\dz13\\app.py', reloading
+2024-01-20 14:15:10,666 [INFO]  * Restarting with stat
+2024-01-20 14:15:10,962 [WARNING]  * Debugger is active!
+2024-01-20 14:15:10,967 [INFO]  * Debugger PIN: 208-672-297
+2024-01-20 14:15:18,494 [INFO] 127.0.0.1 - - [20/Jan/2024 14:15:18] "GET / HTTP/1.1" 200 -
+2024-01-20 14:15:18,552 [INFO] 127.0.0.1 - - [20/Jan/2024 14:15:18] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2024-01-20 14:15:18,554 [INFO] 127.0.0.1 - - [20/Jan/2024 14:15:18] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2024-01-20 14:15:18,616 [INFO] 127.0.0.1 - - [20/Jan/2024 14:15:18] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2024-01-20 14:16:05,536 [INFO]  * Detected change in 'D:\\tasksPython\\qwerty\\2web_dev\\dz13\\app.py', reloading
+2024-01-20 14:16:05,574 [INFO]  * Restarting with stat
+2024-01-20 14:16:05,866 [WARNING]  * Debugger is active!
+2024-01-20 14:16:05,872 [INFO]  * Debugger PIN: 208-672-297
+2024-01-20 15:55:20,063 [INFO]  * Detected change in 'D:\\tasksPython\\qwerty\\2web_dev\\dz13\\app.py', reloading
+2024-01-20 15:55:20,122 [INFO]  * Restarting with stat
+2024-01-20 15:55:20,384 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-20 15:55:20,384 [INFO] [33mPress CTRL+C to quit[0m
+2024-01-20 15:55:20,389 [INFO]  * Restarting with stat
+2024-01-20 15:55:20,412 [WARNING]  * Debugger is active!
+2024-01-20 15:55:20,418 [INFO]  * Debugger PIN: 208-672-297
+2024-01-20 15:55:20,665 [WARNING]  * Debugger is active!
+2024-01-20 15:55:20,671 [INFO]  * Debugger PIN: 208-672-297
+2024-01-21 12:05:19,914 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-21 12:05:19,914 [INFO] [33mPress CTRL+C to quit[0m
+2024-01-21 12:05:19,918 [INFO]  * Restarting with stat
+2024-01-21 12:05:20,289 [WARNING]  * Debugger is active!
+2024-01-21 12:05:20,307 [INFO]  * Debugger PIN: 208-672-297
+2024-01-21 12:55:40,229 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-21 12:55:40,229 [INFO] [33mPress CTRL+C to quit[0m
+2024-01-21 12:55:40,233 [INFO]  * Restarting with stat
+2024-01-21 12:55:40,509 [WARNING]  * Debugger is active!
+2024-01-21 12:55:40,514 [INFO]  * Debugger PIN: 208-672-297
